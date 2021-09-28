@@ -27,6 +27,5 @@ public class ExtendsAndImplementsDemo {
         l.aprendre ();
         Aplicar a = home;
         a.aplicar();
-        System.out.prinln("Aquesta práctica no m'agrada");
     }
 }
